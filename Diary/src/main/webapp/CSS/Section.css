@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+body {
+	overflow-x: hidden;
+}
+
+.MainH1 {
+	display: flex;
+	justify-content: center;
+	margin-top: 70px;
+	margin-bottom: 70px;
+}
+
+.MainH2 {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 30px;
+	color: #e9bd15;
+}
+
+.MainDiv {
+	display: flex;
+	justify-content: space-around;
+	background: #fbe870;
+	padding: 120px 20px;
+	margin-bottom: 80px;
+}
+
+.SubDiv {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	background: white;
+	padding: 40px 25px;
+	border-radius: 15px;
+}
+
+.ConP {
+	display: flex;
+	text-align: center;
+}
+
+.SubH2 {
+	margin-bottom: 10px;
+}
+
+.SubP {
+	margin-bottom: 10px;
+}
+

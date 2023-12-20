@@ -1,0 +1,123 @@
+@charset "UTF-8";
+
+.gong {
+	color: #fbe870;
+	display: flex;
+	justify-content: center;
+	margin-top: 50px;
+}
+
+.diary-preview {
+	width: 450px;
+	height: 440px;
+	background-color: #fff;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-right: 20px;
+}
+
+.diary-preview h1 {
+	text-align: center;
+	color: #333;
+}
+
+.entry {
+	margin-top: 20px;
+}
+
+.date {
+	font-size: 14px;
+	color: #777;
+	font-size: 20px;
+}
+
+.content {
+	line-height: 1.5;
+	color: #333;
+	font-size: 25px;
+}
+
+.View2 {
+	display: block;
+	text-align: center;
+	margin-top: 15px;
+	color: #007bff;
+	text-decoration: none;
+}
+
+.View2:hover {
+	text-decoration: none;
+}
+
+.Sub {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+}
+
+.jo {
+	font-size: 14px;
+	color: #777;
+	display: flex;
+	justify-content: flex-end;
+	margin-bottom: 10px;
+	font-size: 15px;
+}
+
+.H2 {
+	color: black;
+	display: flex;
+	justify-content: center;
+	font-size: 30px;
+}
+
+.gong {
+	color: black;
+	font-size: 20px;
+}
+
+hr {
+	margin-bottom: 10px;
+	color: lightgray;
+}
+
+.jjangdiv {
+	display: flex;
+	justify-content: center;
+}
+
+.nick {
+	color: black;
+}
+
+.sub2 {
+	display: flex;
+	justify-content: space-between;
+}
+
+.su {
+	color: white;
+	font-size: 23px;
+	margin-right: 15px;
+	background: black;
+	padding: 7px 10px;
+	border-radius: 10px;
+}
+
+.sac {
+	color: black;
+	font-size: 23px;
+	margin-left: 15px;
+	background: red;
+	padding: 7px 10px;
+	border-radius: 10px;
+}
+
+.sub3 {
+	display: flex;
+	justify-content: center;
+	margin: 15px 10px;
+}

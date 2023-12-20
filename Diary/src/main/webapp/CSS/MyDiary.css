@@ -1,0 +1,101 @@
+@charset "UTF-8";
+
+.gap {
+	background: #fbe870;
+	margin: 30px 10px 10px 10px;
+	padding: 70px 0;
+	border-radius: 15px;
+}
+
+.tit {
+	padding-left: 20px;
+	font-size: 20px;
+}
+
+.write {
+	background: #fbe870;
+	color: black;
+	padding: 12px 10px;
+	border: 1px solid black;
+	border-radius: 10px;
+	position: relative;
+	top: -50px;
+	left: 1400px;
+	margin-bottom: 150px;
+}
+
+.diary-preview {
+	width: 300px;
+	height: 300px;
+	background-color: #fff;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	margin-top: 40px;
+	margin-bottom: 30px;
+	margin-left: 50px;
+	margin-right: 20px;
+}
+
+.diary-preview h1 {
+	text-align: center;
+	color: #333;
+}
+
+.entry {
+	margin-top: 20px;
+}
+
+.date {
+	font-size: 14px;
+	color: #777;
+}
+
+.content {
+	line-height: 1.5;
+	color: #333;
+}
+
+.View2 {
+	display: block;
+	text-align: center;
+	margin-top: 15px;
+	color: #007bff;
+	text-decoration: none;
+}
+
+.View2:hover {
+	text-decoration: none;
+}
+
+.Sub {
+	display: flex;
+	justify-content: space-between;
+}
+
+.jo {
+	font-size: 14px;
+	color: #777;
+	display: flex;
+	justify-content: flex-end;
+	margin-bottom: 10px;
+}
+
+.H2 {
+	color: black;
+	margin-bottom: 10px;
+}
+
+.gong {
+	color: black;
+}
+
+hr {
+	margin-bottom: 10px;
+	color: lightgray;
+}
+
+.jjangdiv {
+	display: flex;
+	flex-wrap: wrap;
+}
